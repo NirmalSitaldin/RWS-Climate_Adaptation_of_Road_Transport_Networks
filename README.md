@@ -1,6 +1,6 @@
 # :seedling: :earth_africa: RWS - Climate Adaptation of the Dutch main road network :earth_africa: :seedling: #
 
-Welcome to the SUM Lab Github repository for the research project **RWS - Climate Adaptation of the Dutch main road network**!
+👋Welcome to the SUM Lab Github repository for the research project **RWS - Climate Adaptation of the Dutch main road network**!
 
 This project is funded by the executive body of the Dutch ministry for Infrastructure & Water Managemenent, Rijkswaterstaat (RWS). 10 Dutch universities and knowledge institutes are part of this research project with the objective of policy design for adaptation of the Dutch infrastructure system against climate change scenario's. Each partner is associated with various aspects of the adaptation process, in which TU Delft takes the lead in researching the adaptation capabilities of the Dutch main road network system. 
 
