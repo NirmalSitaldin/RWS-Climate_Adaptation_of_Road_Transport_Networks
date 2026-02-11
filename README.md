@@ -6,9 +6,9 @@ This project is funded by the executive body of the Dutch ministry for Infrastru
 
 Our project is segmented in 3 main research areas or subprojects (SP), in the following sequence: 
 
-1. SP1: Risk analysis of the Dutch main road network against climate-change related, unsafe road conditions 
-2. SP2: Impact assessment of precipitation-based unsafe road conditions on the Dutch main road network 
-3. SP3: Adaptation modelling of the Dutch main road network to maintain network resilience in the face of climate-change scenario's
+- SP1: Risk analysis of the Dutch main road network against climate-change related, unsafe road conditions
+- SP2: Impact assessment of precipitation-based unsafe road conditions on the Dutch main road network 
+- SP3: Adaptation modelling of the Dutch main road network to maintain network resilience in the face of climate-change scenario's
 
 ## :busts_in_silhouette: Project members
  - *Nirmal Sitaldin*: Nirmal is a PhD researcher at the SUM Lab, with a background in Data Science. The RWS project is his main affiliation with the SUM Lab, where he researches and develops data-driven methods for spatiotemporal risk prediction (SP1), impact assessment (SP2), and adaptation modelling (SP3). 
