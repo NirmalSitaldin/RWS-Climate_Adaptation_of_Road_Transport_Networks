@@ -1,8 +1,8 @@
-# :seedling: :earth_africa: RWS - Climate Adaptation of the Dutch main road network :earth_africa: :seedling: #
+# :earth_africa:RWS - Climate Adaptation of the Dutch main road network:earth_africa: #
 
 👋Welcome to the SUM Lab Github repository for the research project **RWS - Climate Adaptation of the Dutch main road network**!
 
-This project is funded by the executive body of the Dutch ministry for Infrastructure & Water Managemenent, Rijkswaterstaat (RWS). 10 Dutch universities and knowledge institutes are part of this research project with the objective of policy design for adaptation of the Dutch infrastructure system against climate change scenario's. Each partner is associated with various aspects of the adaptation process, in which TU Delft takes the lead in researching the adaptation capabilities of the Dutch main road network system. 
+This project is funded by the executive body of the Dutch ministry for Infrastructure & Water Managemenent, Rijkswaterstaat (RWS). Ten Dutch universities and knowledge institutes are part of this research project with the objective of policy design for adaptation of the Dutch infrastructure system against climate change scenario's. Each partner is associated with various aspects of the adaptation process, in which TU Delft takes the lead in researching the adaptation capabilities of the Dutch main road network system. 
 
 Our project is segmented in 3 main research areas or subprojects (SP), in the following sequence: 
 
@@ -10,7 +10,10 @@ Our project is segmented in 3 main research areas or subprojects (SP), in the fo
 2. SP2: Impact assessment of precipitation-based unsafe road conditions on the Dutch main road network 
 3. SP3: Adaptation modelling of the Dutch main road network to maintain network resilience in the face of climate-change scenario's
 
-The main outcomes of this project, alongside the code repository, can be found in the remainder of this page.
+## :busts_in_silhouette: Project members
+ - *Nirmal Sitaldin*: Nirmal is a PhD researcher at the SUM Lab, with a background in Data Science. The RWS project is his main affiliation with the SUM Lab, where he researches and develops data-driven methods for spatiotemporal risk prediction (SP1), impact assessment (SP2), and adaptation modelling (SP3). 
+ - *Supervisors*: dr. Shadi Sharif Azadeh, dr. Maaike Snelder, prof. dr. Bart van Arem
+
 
 ## 📂 Code & Tools
 
