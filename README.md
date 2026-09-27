@@ -31,7 +31,6 @@ This repository serves as a **hub**. All RWS-related code, data, and analysis ca
 
 ### 📘 Journal Articles
 
-- **Spatiotemporal prediction of unsafe road conditions using weather and infrastructure information -
-A DBSCAN-GCN-BLSTM framework**  
+- **Spatiotemporal prediction of unsafe road conditions using weather and infrastructure proximity information - A comparative study across model learning paradigms**  
   *Data Science for Transportation*  
   *Nirmal Sitaldin, Bart van Arem, Maaike Snelder, Shadi Sharif Azadeh*  
