@@ -35,11 +35,9 @@ This repository serves as a **hub**. All RWS-related code, data, and analysis ca
   *Data Science for Transportation*  
   *Nirmal Sitaldin, Bart van Arem, Maaike Snelder, Shadi Sharif Azadeh*
 
-  - **Spatiotemporal prediction of unsafe road conditions using weather and infrastructure proximity information - A comparative study across model learning paradigms. [Link to paper](https://www.researchsquare.com/article/rs-8958817/v1)**  
-  *Data Science for Transportation*  
-  *Nirmal Sitaldin, Bart van Arem, Maaike Snelder, Shadi Sharif Azadeh*
-
-- **Quantifying the impact of rainfall and environmental factors on link-level performance via traffic intensity and vehicle-loss hours - A data-driven approach [Link to be added]
+- **Quantifying the impact of rainfall and environmental factors on link-level performance via traffic intensity and vehicle-loss hours - A data-driven approach [Link to be added]**  
   *Transportation Research Part D: Transport and Environment*  
   *Nirmal Sitaldin, Bart van Arem, Maaike Snelder, Shadi Sharif Azadeh*
+
+
  
