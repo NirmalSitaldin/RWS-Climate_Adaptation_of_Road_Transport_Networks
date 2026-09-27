@@ -21,9 +21,9 @@ This repository serves as a **hub**. All RWS-related code, data, and analysis ca
 
 | Repository | Description |
 |------------|-------------|
-| [-TBA-] (link to be added ) | Paper 1 output |
-| [-TBA-] (link to be added ) | Paper 2 output |
-| [-TBA-] (link to be added ) | Paper 3 output |
+| [-TBA-] (link to be added ) | Paper 1 - Data exploration |
+| [-TBA-] (link to be added ) | Paper 1 - Model development and testing |
+| [-TBA-] (link to be added ) | Paper 1 - Ablation study |
 
 > More repositories and tools will be added here as the project progresses.
 
