@@ -21,7 +21,7 @@ This repository serves as a **hub**. All RWS-related code, data, and analysis ca
 
 | Repository | Description |
 |------------|-------------|
-| [-TBA-] (link to be added ) | Paper 1 - Data exploration |
+| [Link](https://github.com/NirmalSitaldin/RWS-Climate_Adaptation_of_Road_Transport_Networks/blob/main/paper1-ablation_studies.ipynb) | Paper 1 - Data exploration |
 | [-TBA-] (link to be added ) | Paper 1 - Model development and testing |
 | [-TBA-] (link to be added ) | Paper 1 - Ablation study |
 
