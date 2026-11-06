@@ -23,7 +23,7 @@ This repository serves as a **hub**. All RWS-related code, data, and analysis ca
 |------------|-------------|
 | [Link](paper1-data_exploration_visualization.ipynb) | Paper 1 - Data exploration |
 | [Link](paper1-clustered_models.ipynb) | Paper 1 - Model development and testing |
-| [Link]([paper1-ablation_studies.ipynb]) | Paper 1 - Ablation study |
+| [Link](paper1-ablation_studies.ipynb) | Paper 1 - Ablation study |
 
 > More repositories and tools will be added here as the project progresses.
 
